@@ -16,27 +16,27 @@
 
 | Program | Link |
 |---------|------|
-| Hello World | [helloworld.py](Python/hello_world.py) |
-| Calculator | [calculator.py](Python/calculator.py) |
-| Factorial | [factorial.py](Python/factorial.py) |
+| Hello World | [helloworld.py](python/hello_world.py) |
+| Calculator | [calculator.py](python/calculator.py) |
+| Factorial | [factorial.py](python/factorial.py) |
 
 
 ## Java Programs
 
 | Program | Link |
 |---------|------|
-| Hello World | [HelloWorld.java](Java/HelloWorld.java) |
-| Calculator | [Calculator.java](Java/Calculator.java) |
-| Factorial | [Factorial.java](Java/Factorial.java) |
+| Hello World | [HelloWorld.java](java/HelloWorld.java) |
+| Calculator | [Calculator.java](java/Calculator.java) |
+| Factorial | [Factorial.java](java/Factorial.java) |
 
 
 ## JavaScript Programs
 
 | Program | Link |
 |---------|------|
-| Hello World | [helloWorld.js](JavaScript/helloWorld.js) |
-| Calculator | [calculator.js](JavaScript/calculator.js) |
-| Factorial | [factorial.js](JavaScript/factorial.js) |
+| Hello World | [helloWorld.js](javascript/helloWorld.js) |
+| Calculator | [calculator.js](javascript/calculator.js) |
+| Factorial | [factorial.js](javascript/factorial.js) |
 
 
 ## Code Examples
