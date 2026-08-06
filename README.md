@@ -16,7 +16,7 @@
 
 | Program | Link |
 |---------|------|
-| Hello World | [hello_world.py](Python/hello_world.py) |
+| Hello World | [helloworld.py](Python/hello_world.py) |
 | Calculator | [calculator.py](Python/calculator.py) |
 | Factorial | [factorial.py](Python/factorial.py) |
 
